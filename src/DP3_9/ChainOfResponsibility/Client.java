@@ -1,7 +1,7 @@
 package DP3_9.ChainOfResponsibility;
 
 /**
- *	客户端 
+ *	 客户端 
  */
 public class Client
 {

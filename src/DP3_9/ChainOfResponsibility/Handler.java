@@ -1,7 +1,7 @@
 package DP3_9.ChainOfResponsibility;
 
 /**
- *	抽象处理者 
+ *	 抽象处理者 
  */
 public abstract class Handler
 {

@@ -1,7 +1,7 @@
 package DP3_9.ChainOfResponsibility;
 
 /**
- *	具体处理者
+ *	 具体处理者
  */
 public class ConcreteHandler extends Handler
 {
