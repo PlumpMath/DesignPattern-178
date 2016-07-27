@@ -1,5 +1,6 @@
 package DP3_11.TemplateMethod;
 
+//测试
 public class Client
 {
 	private static Account acct = null;

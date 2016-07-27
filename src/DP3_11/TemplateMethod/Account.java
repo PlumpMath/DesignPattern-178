@@ -1,5 +1,8 @@
 package DP3_11.TemplateMethod;
 
+/**
+ *	抽象模板 
+ */
 public abstract class Account
 {
 	protected String accountNumber;
