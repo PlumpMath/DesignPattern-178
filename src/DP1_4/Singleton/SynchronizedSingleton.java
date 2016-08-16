@@ -1,5 +1,10 @@
 package DP1_4.Singleton;
 
+/**
+ *	同步了工厂方法的单例模式
+ *	延迟加载,同步
+ *	缺点: 因为涉及到同步锁,性能下降.
+ */
 public class SynchronizedSingleton
 {
 	private static SynchronizedSingleton instance= null;
