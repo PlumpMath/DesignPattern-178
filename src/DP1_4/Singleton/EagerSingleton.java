@@ -1,5 +1,8 @@
 package DP1_4.Singleton;
 
+/**
+ * 最简单的单例模式
+ */
 public class EagerSingleton
 {
 	private static final EagerSingleton instance = new EagerSingleton();
