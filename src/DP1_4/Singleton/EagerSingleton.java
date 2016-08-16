@@ -2,6 +2,7 @@ package DP1_4.Singleton;
 
 /**
  * 最简单的单例模式
+ * 缺陷:类的单例对象在类加载时就会初始化出来.
  */
 public class EagerSingleton
 {
