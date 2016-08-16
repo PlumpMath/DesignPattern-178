@@ -7,7 +7,6 @@ package DP1_4.Singleton;
  *	不会初始化单例类,而当getInstance()方法被调用时,才会加载SingletonHolder,从而初始化instance.
  *	同时,由于实例的建立是在类加载时完成,故天生对多线程友好,getInstance()方法也不需要同步关键字.
  *
- *
  *	适用内部列的方式实现单例,既可以做到延迟加载,也不必适用同步关键字,是一种比较完善的实现.
  */
 public class StaticSingleton
